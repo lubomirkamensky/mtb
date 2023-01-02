@@ -1,0 +1,19 @@
+/* IMPORT SDILENYCH NASTAVENI ========================== */
+@import url("../shared/css/application.css");
+@import url("../shared/css/database.css");
+@import url("../shared/css/icons.css");
+@import url("../shared/css/menu.css");
+@import url("../shared/css/rpc.css");
+@import url("../shared/css/table_layout.css");
+@import url("../shared/css/tools.css");
+@import url("../shared/css/window.css");
+@import url("../shared/css/web.css");
+@import url("../shared/themes/michal/css/blue.css");
+/* ===================================================== */
+table.layout td.top {
+	background: url("../images/bg/top.jpg") no-repeat left;
+	height: 67px;
+}
+table.layout td.head {
+	background: url("../images/bg/head.jpg") no-repeat top;
+}
